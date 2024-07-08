@@ -3386,6 +3386,11 @@
         "7b-64k-q6_K",
         "7b-64k-fp16"
     ],
+    "deepseek-v2": [
+        "latest",
+        "236b",
+        "16b"
+    ],
     "deepseek-llm": [
         "latest",
         "67b",
